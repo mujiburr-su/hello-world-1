@@ -5,4 +5,4 @@
 <h4> Testing automatic build post git commit </h4>
 <h5> Testing Ansible </h5>
 <h6> Deploying app through docker container </h6>
-Testing Cron polling
+Testing Cron polling to deploy app through docker
